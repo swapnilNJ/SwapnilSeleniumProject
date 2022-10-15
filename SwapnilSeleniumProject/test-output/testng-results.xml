@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-26T23:39:37 IST" name="Default suite" finished-at="2022-09-26T23:39:37 IST" duration-ms="24">
+    <groups>
+    </groups>
+    <test started-at="2022-09-26T23:39:37 IST" name="Default test" finished-at="2022-09-26T23:39:37 IST" duration-ms="24">
+      <class name="seleniumTest.TestNG">
+        <test-method is-config="true" signature="c()[pri:0, instance:seleniumTest.TestNG@6dc17b83]" started-at="2022-09-26T23:39:37 IST" name="c" finished-at="2022-09-26T23:39:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="b()[pri:0, instance:seleniumTest.TestNG@6dc17b83]" started-at="2022-09-26T23:39:37 IST" name="b" finished-at="2022-09-26T23:39:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="a2()[pri:0, instance:seleniumTest.TestNG@6dc17b83]" started-at="2022-09-26T23:39:37 IST" name="a2" finished-at="2022-09-26T23:39:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method is-config="true" signature="d()[pri:0, instance:seleniumTest.TestNG@6dc17b83]" started-at="2022-09-26T23:39:37 IST" name="d" finished-at="2022-09-26T23:39:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+      </class> <!-- seleniumTest.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
